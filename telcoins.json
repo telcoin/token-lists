@@ -45,6 +45,84 @@
       "decimals": 8,
       "chainId": 1,
       "logoURI": "https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png?1548822744"
+    },
+    {
+      "name": "Polygon",
+      "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+      "matic_address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic___polygon.jpg?1612939050"
+    },
+    {
+      "name": "QuickSwap",
+      "address": "0x6c28aef8977c9b773996d0e8376d2ee379446f2f",
+      "matic_address": "0x831753dd7087cac61ab5644b308642cc1c33dc13",
+      "symbol": "QUICK",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/13970/thumb/1_pOU6pBMEmiL-ZJVb0CYRjQ.png?1613386659"
+    },
+    {
+      "name": "Aave",
+      "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+      "matic_address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
+    },
+    {
+      "name": "STASIS EURO",
+      "address": "0xdb25f211ab05b1c97d595516f45794528a807ad8",
+      "matic_address": "0xe111178a87a3bff0c8d18decba5798827539ae99",
+      "symbol": "EURS",
+      "decimals": 2,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/5164/thumb/EURS_300x300.png?1550571779"
+    },
+    {
+      "name": "xSGD",
+      "address": "0x70e8de73ce538da2beed35d14187f6959a8eca96",
+      "symbol": "XSGD",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/12832/thumb/opiTgkh.png?1602856852"
+    },
+    {
+      "name": "CAD Coin",
+      "address": "0xcadc0acd4b445166f12d2c07eac6e2544fbe2eef",
+      "symbol": "CADC",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/14149/thumb/cadc_2.png?1614666625"
+    },
+    {
+      "name": "DFX Finance",
+      "address": "0x888888435fde8e7d4c54cab67f206e4199454c60",
+      "symbol": "DFX",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/14091/thumb/DFX.png?1614320944"
+    },
+    {
+      "name": "Balancer",
+      "address": "0xba100000625a3754423978a60c9317c58a424e3d",
+      "matic_address": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
+      "symbol": "BAL",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/11683/thumb/Balancer.png?1592792958"
+    },
+    {
+      "name": "Sushi",
+      "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+      "matic_address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+      "symbol": "SUSHI",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/12271/thumb/512x512_Logo_no_chop.png?1606986688"
     }
   ]
 }
