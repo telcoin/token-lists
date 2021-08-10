@@ -1,9 +1,9 @@
 {
   "name": "TELcoins",
-  "timestamp": "2021-07-06T17:23:48+00:00",
+  "timestamp": "2021-08-10T23:32:21+00:00",
   "version": {
     "major": 0,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/logo-telcoin-250x250.png",
@@ -22,7 +22,7 @@
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/logo-telcoin-250x250.png"
     },
     {
-      "name": "USDCoin",
+      "name": "USD Coin",
       "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
       "symbol": "USDC",
       "decimals": 6,
