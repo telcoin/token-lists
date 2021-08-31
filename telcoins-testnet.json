@@ -1,0 +1,37 @@
+{
+  "name": "TELcoins",
+  "timestamp": "2021-08-10T23:32:21+00:00",
+  "version": {
+    "major": 0,
+    "minor": 4,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/logo-telcoin-250x250.png",
+  "keywords": [],
+  "tags": {},
+  "tokens": [
+    {
+      "name": "Telcoin",
+      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
+      "symbol": "TEL",
+      "decimals": 2,
+      "chainId": 5,
+      "extensions": {
+        "matic_address": "0x8649E7C4120cA558B1A1a128d11C7DfC2542f0fF"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/logo-telcoin-250x250.png"
+    },
+    {
+      "name": "Dummy ERC20",
+      "address": "0x655F2166b0709cd575202630952D71E2bB0d61Af",
+      "symbol": "DERC20",
+      "decimals": 18,
+      "chainId": 80001,
+      "extensions": {
+        "matic_address": "0xfe4F5145f6e09952a5ba9e956ED0C25e3Fa4c7F1"
+      },
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389"
+    }
+  ]
+}
+
