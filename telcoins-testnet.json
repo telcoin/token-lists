@@ -6,7 +6,7 @@
     "minor": 3,
     "patch": 0
   },
-  "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/logo-telcoin-250x250.png",
+  "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/tel-128x128.png",
   "keywords": [],
   "tags": {},
   "tokens": [
@@ -19,7 +19,7 @@
       "extensions": {
         "matic_address": "0x8649E7C4120cA558B1A1a128d11C7DfC2542f0fF"
       },
-      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/logo-telcoin-250x250.png"
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/tel-128x128.png"
     },
     {
       "name": "Polygon",
@@ -30,7 +30,7 @@
       "symbol": "MATIC",
       "decimals": 18,
       "chainId": 5,
-      "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic___polygon.jpg?1612939050"
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/wmatic-128x128.png"
     }
   ]
 }
