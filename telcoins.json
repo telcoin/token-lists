@@ -104,6 +104,9 @@
       "symbol": "XSGD",
       "decimals": 6,
       "chainId": 1,
+      "extensions": {
+        "matic_address": "0x769434dcA303597C8fc4997Bf3DAB233e961Eda2"
+      },
       "logoURI": "https://assets.coingecko.com/coins/images/12832/thumb/opiTgkh.png?1602856852"
     },
     {
@@ -112,6 +115,9 @@
       "symbol": "CADC",
       "decimals": 18,
       "chainId": 1,
+      "extensions": {
+        "matic_address": "0x5d146d8B1dACb1EBBA5cb005ae1059DA8a1FbF57"
+      },
       "logoURI": "https://assets.coingecko.com/coins/images/14149/thumb/cadc_2.png?1614666625"
     },
     {
@@ -120,6 +126,9 @@
       "symbol": "DFX",
       "decimals": 18,
       "chainId": 1,
+      "extensions": {
+        "matic_address": "0xE7804D91dfCDE7F776c90043E03eAa6Df87E6395"
+      },
       "logoURI": "https://assets.coingecko.com/coins/images/14091/thumb/DFX.png?1614320944"
     },
     {
