@@ -1,9 +1,9 @@
 {
   "name": "TELcoins",
-  "timestamp": "2021-09-01T00:42:49+00:00",
+  "timestamp": "2021-09-01T23:32:21+00:00",
   "version": {
     "major": 0,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/tel-128x128.png",
@@ -31,7 +31,127 @@
       "decimals": 18,
       "chainId": 5,
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/wmatic-128x128.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
+      "symbol": "TEL",
+      "decimals": 2,
+      "chainId": 5,
+      "extensions": {
+        "matic_address": "0x8649E7C4120cA558B1A1a128d11C7DfC2542f0fF"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/usdc-128x128.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
+      "symbol": "TEL",
+      "decimals": 2,
+      "chainId": 5,
+      "extensions": {
+        "matic_address": "0x8649E7C4120cA558B1A1a128d11C7DfC2542f0fF"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/weth-128x128.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
+      "symbol": "TEL",
+      "decimals": 2,
+      "chainId": 5,
+      "extensions": {
+        "matic_address": "0x8649E7C4120cA558B1A1a128d11C7DfC2542f0fF"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/wbtc-128x128.png"
+    },
+    {
+      "name": "QuickSwap",
+      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
+      "symbol": "TEL",
+      "decimals": 2,
+      "chainId": 5,
+      "extensions": {
+        "matic_address": "0x8649E7C4120cA558B1A1a128d11C7DfC2542f0fF"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/quick-128x128.png"
+    },
+    {
+      "name": "Aave",
+      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
+      "symbol": "TEL",
+      "decimals": 2,
+      "chainId": 5,
+      "extensions": {
+        "matic_address": "0x8649E7C4120cA558B1A1a128d11C7DfC2542f0fF"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/aave-128x128.png"
+    },
+    {
+      "name": "STASIS EURO",
+      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
+      "symbol": "TEL",
+      "decimals": 2,
+      "chainId": 5,
+      "extensions": {
+        "matic_address": "0x8649E7C4120cA558B1A1a128d11C7DfC2542f0fF"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/eurs-128x128.png"
+    },
+    {
+      "name": "xSGD",
+      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
+      "symbol": "TEL",
+      "decimals": 2,
+      "chainId": 5,
+      "extensions": {
+        "matic_address": "0x8649E7C4120cA558B1A1a128d11C7DfC2542f0fF"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/xsgd-128x128.png"
+    },
+    {
+      "name": "CAD Coin",
+      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
+      "symbol": "TEL",
+      "decimals": 2,
+      "chainId": 5,
+      "extensions": {
+        "matic_address": "0x8649E7C4120cA558B1A1a128d11C7DfC2542f0fF"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/cadc-128x128.png"
+    },
+    {
+      "name": "DFX Finance",
+      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
+      "symbol": "TEL",
+      "decimals": 2,
+      "chainId": 5,
+      "extensions": {
+        "matic_address": "0x8649E7C4120cA558B1A1a128d11C7DfC2542f0fF"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/dfx-128x128.png"
+    },
+    {
+      "name": "Balancer",
+      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
+      "symbol": "TEL",
+      "decimals": 2,
+      "chainId": 5,
+      "extensions": {
+        "matic_address": "0x8649E7C4120cA558B1A1a128d11C7DfC2542f0fF"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/bal-128x128.png"
+    },
+    {
+      "name": "Sushi",
+      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
+      "symbol": "TEL",
+      "decimals": 2,
+      "chainId": 5,
+      "extensions": {
+        "matic_address": "0x8649E7C4120cA558B1A1a128d11C7DfC2542f0fF"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/sushi-128x128.png"
     }
   ]
 }
-
