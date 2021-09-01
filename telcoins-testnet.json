@@ -1,9 +1,9 @@
 {
   "name": "TELcoins",
-  "timestamp": "2021-09-01T00:14:47+00:00",
+  "timestamp": "2021-09-01T00:35:04+00:00",
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/logo-telcoin-250x250.png",
@@ -26,11 +26,11 @@
       "address": "0x655F2166b0709cd575202630952D71E2bB0d61Af",
       "symbol": "DERC20",
       "decimals": 18,
-      "chainId": 80001,
+      "chainId": 5,
       "extensions": {
         "matic_address": "0xfe4F5145f6e09952a5ba9e956ED0C25e3Fa4c7F1"
       },
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389"
+      "logoURI": "https://goerli.etherscan.io/images/main/empty-token.png"
     }
   ]
 }
