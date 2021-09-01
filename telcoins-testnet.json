@@ -1,12 +1,12 @@
 {
   "name": "TELcoins",
-  "timestamp": "2021-08-10T23:32:21+00:00",
+  "timestamp": "2021-09-01T00:42:49+00:00",
   "version": {
     "major": 0,
-    "minor": 4,
+    "minor": 3,
     "patch": 0
   },
-  "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/logo-telcoin-250x250.png",
+  "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/tel-128x128.png",
   "keywords": [],
   "tags": {},
   "tokens": [
@@ -19,18 +19,18 @@
       "extensions": {
         "matic_address": "0x8649E7C4120cA558B1A1a128d11C7DfC2542f0fF"
       },
-      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/logo-telcoin-250x250.png"
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/tel-128x128.png"
     },
     {
-      "name": "Dummy ERC20",
-      "address": "0x655F2166b0709cd575202630952D71E2bB0d61Af",
-      "symbol": "DERC20",
-      "decimals": 18,
-      "chainId": 80001,
+      "name": "Polygon",
+      "address": "0x499d11E0b6eAC7c0593d8Fb292DCBbF815Fb29Ae",
       "extensions": {
-        "matic_address": "0xfe4F5145f6e09952a5ba9e956ED0C25e3Fa4c7F1"
+        "matic_address": "0x0000000000000000000000000000000000001010"
       },
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png?1547042389"
+      "symbol": "MATIC",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/wmatic-128x128.png"
     }
   ]
 }
