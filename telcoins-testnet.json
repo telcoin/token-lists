@@ -143,9 +143,9 @@
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/bal-128x128.png"
     },
     {
-      "name": "SUSHI",
+      "name": "Sushi",
       "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
-      "symbol": "TEL",
+      "symbol": "SUSHI",
       "decimals": 2,
       "chainId": 5,
       "extensions": {
