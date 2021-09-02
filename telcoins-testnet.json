@@ -1,9 +1,9 @@
 {
   "name": "TELcoins",
-  "timestamp": "2021-09-02T20:15:59+00:00",
+  "timestamp": "2021-09-02T20:25:32+00:00",
   "version": {
     "major": 0,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/tel-128x128.png",
@@ -30,6 +30,17 @@
       "symbol": "MATIC",
       "decimals": 18,
       "chainId": 5,
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/matic-128x128.png"
+    },
+    {
+      "name": "Wrapped Matic",
+      "address": "0x499d11E0b6eAC7c0593d8Fb292DCBbF815Fb29Ae",
+      "extensions": {
+        "polygon_address": "0x0000000000000000000000000000000000001010"
+      },
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/matic-128x128.png"
     },
     {
