@@ -30,7 +30,7 @@
       "symbol": "MATIC",
       "decimals": 18,
       "chainId": 5,
-      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/wmatic-128x128.png"
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/matic-128x128.png"
     },
     {
       "name": "USD Coin",

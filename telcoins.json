@@ -1,10 +1,10 @@
 {
   "name": "TELcoins",
-  "timestamp": "2021-09-01T23:32:21+00:00",
+  "timestamp": "2021-09-02T20:09:33+00:00",
   "version": {
     "major": 0,
     "minor": 5,
-    "patch": 0
+    "patch": 1
   },
   "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/tel-128x128.png",
   "keywords": [],
@@ -58,12 +58,12 @@
       "name": "Polygon",
       "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
       "extensions": {
-        "matic_address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+        "matic_address": "0x0000000000000000000000000000000000001010"
       },
       "symbol": "MATIC",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/wmatic-128x128.png"
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/matic-128x128.png"
     },
     {
       "name": "QuickSwap",
