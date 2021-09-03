@@ -18,7 +18,7 @@
       "chainId": 5,
       "extensions": {
         "polygon_address__mapped": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff",
-        "polygon_address": "E83e5FDEa3016484981ccc9349C6D980DEAdB904"
+        "polygon_address": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/tel-128x128.png"
     },
