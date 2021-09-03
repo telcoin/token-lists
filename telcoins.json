@@ -1,9 +1,9 @@
 {
   "name": "TELcoins",
-  "timestamp": "2021-09-02T20:25:32+00:00",
+  "timestamp": "2021-09-03T19:53:06+00:00",
   "version": {
     "major": 0,
-    "minor": 7,
+    "minor": 8,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/tel-128x128.png",
@@ -74,7 +74,7 @@
       "symbol": "WMATIC",
       "decimals": 18,
       "chainId": 1,
-      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/matic-128x128.png"
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/wmatic-128x128.png"
     },
     {
       "name": "QuickSwap",
