@@ -1,10 +1,10 @@
 {
   "name": "TELcoins",
-  "timestamp": "2021-09-03T23:22:36+00:00",
+  "timestamp": "2021-09-13T17:12:09+00:00",
   "version": {
     "major": 0,
-    "minor": 7,
-    "patch": 1
+    "minor": 8,
+    "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/tel-128x128.png",
   "keywords": [],
@@ -153,17 +153,6 @@
         "polygon_address": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/bal-128x128.png"
-    },
-    {
-      "name": "Sushi",
-      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
-      "symbol": "SUSHI",
-      "decimals": 2,
-      "chainId": 5,
-      "extensions": {
-        "polygon_address": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
-      },
-      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/sushi-128x128.png"
     }
   ]
 }
