@@ -1,9 +1,9 @@
 {
   "name": "TELcoins",
-  "timestamp": "2021-09-13T17:12:09+00:00",
+  "timestamp": "2021-09-13T17:14:39+00:00",
   "version": {
     "major": 0,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/tel-128x128.png",
@@ -17,8 +17,7 @@
       "decimals": 2,
       "chainId": 5,
       "extensions": {
-        "polygon_address__mapped": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff",
-        "polygon_address": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
+        "polygonAddress": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/tel-128x128.png"
     },
@@ -26,7 +25,7 @@
       "name": "Polygon",
       "address": "0x499d11E0b6eAC7c0593d8Fb292DCBbF815Fb29Ae",
       "extensions": {
-        "polygon_address": "0x0000000000000000000000000000000000001010"
+        "polygonAddress": "0x0000000000000000000000000000000000001010"
       },
       "symbol": "MATIC",
       "decimals": 18,
@@ -37,7 +36,7 @@
       "name": "Wrapped Matic",
       "address": "0x499d11E0b6eAC7c0593d8Fb292DCBbF815Fb29Ae",
       "extensions": {
-        "polygon_address": "0x0000000000000000000000000000000000001010"
+        "polygonAddress": "0x0000000000000000000000000000000000001010"
       },
       "symbol": "WMATIC",
       "decimals": 18,
@@ -51,7 +50,7 @@
       "decimals": 2,
       "chainId": 5,
       "extensions": {
-        "polygon_address": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
+        "polygonAddress": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/usdc-128x128.png"
     },
@@ -62,7 +61,7 @@
       "decimals": 2,
       "chainId": 5,
       "extensions": {
-        "polygon_address": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
+        "polygonAddress": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/weth-128x128.png"
     },
@@ -73,7 +72,7 @@
       "decimals": 2,
       "chainId": 5,
       "extensions": {
-        "polygon_address": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
+        "polygonAddress": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/wbtc-128x128.png"
     },
@@ -84,7 +83,7 @@
       "decimals": 2,
       "chainId": 5,
       "extensions": {
-        "polygon_address": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
+        "polygonAddress": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/quick-128x128.png"
     },
@@ -95,7 +94,7 @@
       "decimals": 2,
       "chainId": 5,
       "extensions": {
-        "polygon_address": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
+        "polygonAddress": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/aave-128x128.png"
     },
@@ -106,7 +105,7 @@
       "decimals": 2,
       "chainId": 5,
       "extensions": {
-        "polygon_address": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
+        "polygonAddress": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/eurs-128x128.png"
     },
@@ -117,7 +116,7 @@
       "decimals": 2,
       "chainId": 5,
       "extensions": {
-        "polygon_address": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
+        "polygonAddress": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/xsgd-128x128.png"
     },
@@ -128,7 +127,7 @@
       "decimals": 2,
       "chainId": 5,
       "extensions": {
-        "polygon_address": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
+        "polygonAddress": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/cadc-128x128.png"
     },
@@ -139,7 +138,7 @@
       "decimals": 2,
       "chainId": 5,
       "extensions": {
-        "polygon_address": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
+        "polygonAddress": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/dfx-128x128.png"
     },
@@ -150,7 +149,7 @@
       "decimals": 2,
       "chainId": 5,
       "extensions": {
-        "polygon_address": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
+        "polygonAddress": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/bal-128x128.png"
     }
