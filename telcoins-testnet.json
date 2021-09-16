@@ -1,9 +1,9 @@
 {
   "name": "TELcoins",
-  "timestamp": "2021-09-13T17:14:39+00:00",
+  "timestamp": "2021-09-16T11:31:39+00:00",
   "version": {
     "major": 0,
-    "minor": 9,
+    "minor": 10,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/tel-128x128.png",
