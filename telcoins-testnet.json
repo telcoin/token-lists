@@ -127,7 +127,7 @@
       "decimals": 18,
       "chainId": 5,
       "extensions": {
-        "polygonAddress": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
+        "polygonAddress": "0x216453b4491679beb774659f1d43e39308b5cba8"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/cadc-128x128.png"
     },
