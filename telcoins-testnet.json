@@ -56,12 +56,12 @@
     },
     {
       "name": "Wrapped Ether",
-      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
+      "address": "0x60D4dB9b534EF9260a88b0BED6c486fe13E604Fc",
       "symbol": "WETH",
       "decimals": 2,
       "chainId": 5,
       "extensions": {
-        "polygonAddress": "0x8649e7c4120ca558b1a1a128d11c7dfc2542f0ff"
+        "polygonAddress": "0x4DfAe612aaCB5b448C12A591cD0879bFa2e51d62"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/weth-128x128.png"
     },
