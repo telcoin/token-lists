@@ -1,9 +1,9 @@
 {
   "name": "TELcoins",
-  "timestamp": "2021-09-20T15:24:00-07:00",
+  "timestamp": "2021-12-11T01:23:00+00:00",
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/tel-128x128.png",
@@ -12,146 +12,14 @@
   "tokens": [
     {
       "name": "Telcoin",
-      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
+      "address": "0x467bccd9d29f223bce8043b84e8c8b282827790f",
       "symbol": "TEL",
       "decimals": 2,
-      "chainId": 5,
+      "chainId": 1,
       "extensions": {
-        "polygonAddress": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66"
+        "polygonAddress": "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/tel-128x128.png"
-    },
-    {
-      "name": "Polygon",
-      "address": "0x499d11E0b6eAC7c0593d8Fb292DCBbF815Fb29Ae",
-      "extensions": {
-        "polygonAddress": "0x499d11E0b6eAC7c0593d8Fb292DCBbF815Fb29Ae"
-      },
-      "symbol": "MATIC",
-      "decimals": 18,
-      "chainId": 5,
-      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/matic-128x128.png"
-    },
-    {
-      "name": "Wrapped Matic",
-      "address": "0x499d11E0b6eAC7c0593d8Fb292DCBbF815Fb29Ae",
-      "extensions": {
-        "polygonAddress": "0x499d11E0b6eAC7c0593d8Fb292DCBbF815Fb29Ae"
-      },
-      "symbol": "WMATIC",
-      "decimals": 18,
-      "chainId": 5,
-      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/wmatic-128x128.png"
-    },
-    {
-      "name": "USD Coin",
-      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
-      "symbol": "USDC",
-      "decimals": 6,
-      "chainId": 5,
-      "extensions": {
-        "polygonAddress": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66"
-      },
-      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/usdc-128x128.png"
-    },
-    {
-      "name": "Wrapped Ether",
-      "address": "0x60D4dB9b534EF9260a88b0BED6c486fe13E604Fc",
-      "symbol": "WETH",
-      "decimals": 2,
-      "chainId": 5,
-      "extensions": {
-        "polygonAddress": "0x60D4dB9b534EF9260a88b0BED6c486fe13E604Fc"
-      },
-      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/weth-128x128.png"
-    },
-    {
-      "name": "Wrapped BTC",
-      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "chainId": 5,
-      "extensions": {
-        "polygonAddress": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66"
-      },
-      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/wbtc-128x128.png"
-    },
-    {
-      "name": "QuickSwap",
-      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
-      "symbol": "QUICK",
-      "decimals": 18,
-      "chainId": 5,
-      "extensions": {
-        "polygonAddress": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66"
-      },
-      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/quick-128x128.png"
-    },
-    {
-      "name": "Aave",
-      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
-      "symbol": "AAVE",
-      "decimals": 18,
-      "chainId": 5,
-      "extensions": {
-        "polygonAddress": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66"
-      },
-      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/aave-128x128.png"
-    },
-    {
-      "name": "STASIS EURO",
-      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
-      "symbol": "EURS",
-      "decimals": 2,
-      "chainId": 5,
-      "extensions": {
-        "polygonAddress": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66"
-      },
-      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/eurs-128x128.png"
-    },
-    {
-      "name": "xSGD",
-      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
-      "symbol": "XSGD",
-      "decimals": 6,
-      "chainId": 5,
-      "extensions": {
-        "polygonAddress": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66"
-      },
-      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/xsgd-128x128.png"
-    },
-    {
-      "name": "CAD Coin",
-      "address": "0x285e1d180BAed16A06e957545a87723f101b79d9",
-      "symbol": "CADC",
-      "decimals": 18,
-      "chainId": 5,
-      "extensions": {
-        "polygonAddress": "0x285e1d180BAed16A06e957545a87723f101b79d9"
-      },
-      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/cadc-128x128.png"
-    },
-    {
-      "name": "DFX Finance",
-      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
-      "symbol": "DFX",
-      "decimals": 18,
-      "chainId": 5,
-      "extensions": {
-        "polygonAddress": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66"
-      },
-      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/dfx-128x128.png"
-    },
-    {
-      "name": "Balancer",
-      "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
-      "symbol": "BAL",
-      "decimals": 18,
-      "chainId": 5,
-      "extensions": {
-        "polygonAddress": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66"
-      },
-      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/bal-128x128.png"
     }
   ]
 }
