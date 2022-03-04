@@ -1,9 +1,9 @@
 {
   "name": "TELcoins",
-  "timestamp": "2021-09-13T17:14:39+00:00",
+  "timestamp": "2022-03-04T18:38:11+00:00",
   "version": {
     "major": 0,
-    "minor": 10,
+    "minor": 11,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/tel-128x128.png",
@@ -130,6 +130,28 @@
         "polygonAddress": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/bal-128x128.png"
+    },
+    {
+      "name": "Chainlink",
+      "address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 1,
+      "extensions": {
+        "polygonAddress": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/link-128x128.png"
+    },
+    {
+      "name": "Decentraland",
+      "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+      "symbol": "MANA",
+      "decimals": 18,
+      "chainId": 1,
+      "extensions": {
+        "polygonAddress": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/mana-128x128.png"
     }
   ]
 }
