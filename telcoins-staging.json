@@ -152,6 +152,72 @@
         "polygonAddress": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/mana-128x128.png"
+    },
+    {
+      "name": "Axie Infinity",
+      "address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+      "symbol": "AXS",
+      "decimals": 18,
+      "chainId": 1,
+      "extensions": {
+        "polygonAddress": "0x61BDD9C7d4dF4Bf47A4508c0c8245505F2Af5b7b"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/axs-128x128.png"
+    },
+    {
+      "name": "Curve",
+      "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+      "symbol": "CRV",
+      "decimals": 18,
+      "chainId": 1,
+      "extensions": {
+        "polygonAddress": "0x172370d5Cd63279eFa6d502DAB29171933a610AF"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/crv-128x128.png"
+    },
+    {
+      "name": "Dai",
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 1,
+      "extensions": {
+        "polygonAddress": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/dai-128x128.png"
+    },
+    {
+      "name": "Maker",
+      "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+      "symbol": "MKR",
+      "decimals": 18,
+      "chainId": 1,
+      "extensions": {
+        "polygonAddress": "0x6f7C932e7684666C9fd1d44527765433e01fF61d"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/mkr-128x128.png"
+    },
+    {
+      "name": "The Graph",
+      "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+      "symbol": "GRT",
+      "decimals": 18,
+      "chainId": 1,
+      "extensions": {
+        "polygonAddress": "0x5fe2B58c013d7601147DcdD68C143A77499f5531"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/grt-128x128.png"
+    },
+    {
+      "name": "Uniswap",
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "symbol": "UNI",
+      "decimals": 18,
+      "chainId": 1,
+      "extensions": {
+        "polygonAddress": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/uni-128x128.png"
     }
   ]
 }
