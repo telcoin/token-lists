@@ -218,6 +218,17 @@
         "polygonAddress": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/uni-128x128.png"
+    },
+    {
+      "name": "ApeCoin",
+      "address": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+      "symbol": "APE",
+      "decimals": 18,
+      "chainId": 1,
+      "extensions": {
+        "polygonAddress": "0xB7b31a6BC18e48888545CE79e83E06003bE70930"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/ape-128x128.png"
     }
   ]
 }
