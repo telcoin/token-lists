@@ -243,12 +243,12 @@
     },
     {
       "name": "Aavegotchi",
-      "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+      "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
       "symbol": "GHST",
       "decimals": 18,
       "chainId": 1,
       "extensions": {
-        "polygonAddress": "0xB7b31a6BC18e48888545CE79e83E06003bE70930"
+        "polygonAddress": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/ghst-128x128.png"
     },
