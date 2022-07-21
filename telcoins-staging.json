@@ -220,17 +220,6 @@
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/ape-128x128.png"
     },
     {
-      "name": "Paxos Gold",
-      "address": "0x553d3D295e0f695B9228246232eDF400ed3560B5",
-      "symbol": "PAXG",
-      "decimals": 18,
-      "chainId": 1,
-      "extensions": {
-        "polygonAddress": "0x45804880de22913dafe09f4980848ece6ecbaf78"
-      },
-      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/paxg-128x128.png"
-    },
-    {
       "name": "The Sandbox",
       "address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
       "symbol": "SAND",
