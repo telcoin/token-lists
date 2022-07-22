@@ -1,9 +1,9 @@
 {
   "name": "TELcoins",
-  "timestamp": "2022-05-12T18:23:30+00:00",
+  "timestamp": "2022-07-22T16:30:43+00:00",
   "version": {
     "major": 0,
-    "minor": 12,
+    "minor": 13,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/tel-128x128.png",
@@ -218,6 +218,39 @@
         "polygonAddress": "0xB7b31a6BC18e48888545CE79e83E06003bE70930"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/ape-128x128.png"
+    },
+    {
+      "name": "The Sandbox",
+      "address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+      "symbol": "SAND",
+      "decimals": 18,
+      "chainId": 1,
+      "extensions": {
+        "polygonAddress": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/sand-128x128.png"
+    },
+    {
+      "name": "Aavegotchi",
+      "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+      "symbol": "GHST",
+      "decimals": 18,
+      "chainId": 1,
+      "extensions": {
+        "polygonAddress": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/ghst-128x128.png"
+    },
+    {
+      "name": "Solana",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "SOL",
+      "decimals": 18,
+      "chainId": 1,
+      "extensions": {
+        "polygonAddress": "0x7DfF46370e9eA5f0Bad3C4E29711aD50062EA7A4"
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/sol-128x128.png"
     }
   ]
 }
