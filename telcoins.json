@@ -33,26 +33,26 @@
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/usdc-128x128.png"
     },
     {
-      "name": "Wrapped Ether",
+      "name": "Ether",
       "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-      "symbol": "WETH",
+      "symbol": "ETH",
       "decimals": 18,
       "chainId": 1,
       "extensions": {
         "polygonAddress": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619"
       },
-      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/weth-128x128.png"
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/eth-128x128.png"
     },
     {
-      "name": "Wrapped BTC",
+      "name": "Bitcoin (wrapped)",
       "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-      "symbol": "WBTC",
+      "symbol": "wBTC",
       "decimals": 8,
       "chainId": 1,
       "extensions": {
         "polygonAddress": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6"
       },
-      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/wbtc-128x128.png"
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/btc-128x128.png"
     },
     {
       "name": "QuickSwap",
