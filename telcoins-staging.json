@@ -55,6 +55,17 @@
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/wbtc-128x128.png"
     },
     {
+      "name": "Polygon",
+      "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+      "extensions": {
+        "polygonAddress": "0x0000000000000000000000000000000000001010"
+      },
+      "symbol": "MATIC",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/matic-128x128.png"
+    },
+    {
       "name": "QuickSwap",
       "address": "0x6c28aef8977c9b773996d0e8376d2ee379446f2f",
       "symbol": "QUICK",
