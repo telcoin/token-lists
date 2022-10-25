@@ -66,6 +66,17 @@
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/matic-128x128.png"
     },
     {
+      "name": "Wrapped Matic",
+      "address": "0x0000000000000000000000000000000000000000",
+      "extensions": {
+        "polygonAddress": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+      },
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/wmatic-128x128.png"
+    },
+    {
       "name": "QuickSwap",
       "address": "0x6c28aef8977c9b773996d0e8376d2ee379446f2f",
       "symbol": "QUICK",
