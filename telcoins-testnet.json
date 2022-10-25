@@ -66,7 +66,7 @@
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/weth-128x128.png"
     },
     {
-      "name": "Wrapped BTC",
+      "name": "Wrapped Bitcoin",
       "address": "0x0F288c57CeeC88e1DED35C6200947d65B7E22F66",
       "symbol": "WBTC",
       "decimals": 8,
