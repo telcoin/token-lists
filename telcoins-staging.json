@@ -284,7 +284,8 @@
         "polygonAddress": "0x7DfF46370e9eA5f0Bad3C4E29711aD50062EA7A4"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/sol-128x128.png"
-    },    {
+    },   
+    {
       "name": "Sushi",
       "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
       "symbol": "SUSHI",
@@ -294,7 +295,8 @@
         "polygonAddress": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/sushi-128x128.png"
-    },    {
+    },
+    {
       "name": "Ocean",
       "address": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
       "symbol": "OCEAN",
@@ -304,7 +306,8 @@
         "polygonAddress": "0x282d8efCe846A88B159800bd4130ad77443Fa1A1"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/ocean-128x128.png"
-    },    {
+    },
+    {
       "name": "Lido DAO",
       "address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
       "symbol": "LDO",
@@ -314,7 +317,8 @@
         "polygonAddress": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/ldo-128x128.png"
-    },    {
+    },
+    {
       "name": "Gains Network",
       "address": "0x0000000000000000000000000000000000000000",
       "symbol": "GNS",
@@ -324,7 +328,8 @@
         "polygonAddress": "0xE5417Af564e4bFDA1c483642db72007871397896"
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/gns-128x128.png"
-    },    {
+    },
+    {
       "name": "Vulcan Forged",
       "address": "0x430EF9263E76DAE63c84292C3409D61c598E9682",
       "symbol": "PYR",
