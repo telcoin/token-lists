@@ -319,17 +319,6 @@
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/ldo-128x128.png"
     },
     {
-      "name": "Gains Network",
-      "address": "0x0000000000000000000000000000000000000000",
-      "symbol": "GNS",
-      "decimals": 18,
-      "chainId": 1,
-      "extensions": {
-        "polygonAddress": "0xE5417Af564e4bFDA1c483642db72007871397896"
-      },
-      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/gns-128x128.png"
-    },
-    {
       "name": "Vulcan Forged",
       "address": "0x430EF9263E76DAE63c84292C3409D61c598E9682",
       "symbol": "PYR",
