@@ -1,9 +1,9 @@
 {
   "name": "TELcoins",
-  "timestamp": "2022-12-27T16:03:25+00:00",
+  "timestamp": "2023-03-07T00:30:50+00:00",
   "version": {
     "major": 0,
-    "minor": 15,
+    "minor": 16,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/tel-128x128.png",
@@ -121,24 +121,50 @@
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/eurs-128x128.png"
     },
     {
-      "name": "xSGD",
+      "name": "xSGD (deprecated)",
       "address": "0x70e8de73ce538da2beed35d14187f6959a8eca96",
+      "symbol": "XSGD_deprecated",
+      "decimals": 6,
+      "chainId": 1,
+      "extensions": {
+        "polygonAddress": "0x769434dcA303597C8fc4997Bf3DAB233e961Eda2",
+        "displayTelco.in": false
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/xsgd-128x128.png"
+    },
+    {
+      "name": "CAD Coin (deprecated)",
+      "address": "0xcadc0acd4b445166f12d2c07eac6e2544fbe2eef",
+      "symbol": "CADC_deprecated",
+      "decimals": 18,
+      "chainId": 1,
+      "extensions": {
+        "polygonAddress": "0x5d146d8B1dACb1EBBA5cb005ae1059DA8a1FbF57",
+        "displayTelco.in": false
+      },
+      "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/cadc-128x128.png"
+    },
+    {
+      "name": "xSGD",
+      "address": "0x0000000000000000000000000000000000000000",
       "symbol": "XSGD",
       "decimals": 6,
       "chainId": 1,
       "extensions": {
-        "polygonAddress": "0x769434dcA303597C8fc4997Bf3DAB233e961Eda2"
+        "polygonAddress": "0xDC3326e71D45186F113a2F448984CA0e8D201995",
+        "displayTelco.in": true
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/xsgd-128x128.png"
     },
     {
       "name": "CAD Coin",
-      "address": "0xcadc0acd4b445166f12d2c07eac6e2544fbe2eef",
+      "address": "0x0000000000000000000000000000000000000000",
       "symbol": "CADC",
       "decimals": 18,
       "chainId": 1,
       "extensions": {
-        "polygonAddress": "0x5d146d8B1dACb1EBBA5cb005ae1059DA8a1FbF57"
+        "polygonAddress": "0x9de41aFF9f55219D5bf4359F167d1D0c772A396D",
+        "displayTelco.in": true
       },
       "logoURI": "https://raw.githubusercontent.com/telcoin/token-lists/master/assets/cadc-128x128.png"
     },
